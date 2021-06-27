@@ -72,7 +72,7 @@
             </activation>
             <properties>
                 <!-- Optional URL to server. Default value is http://localhost:9000 -->
-                <sonar.host.url>http://3.142.248.36:9000 </sonar.host.url>
+                <sonar.host.url>http://52.35.71.212:9000 </sonar.host.url>
 	
 
 	
