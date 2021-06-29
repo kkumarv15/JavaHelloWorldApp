@@ -81,7 +81,19 @@
 <sonar.jdbc.username>admin</sonar.jdbc.username>
 <sonar.jdbc.password>admin</sonar.jdbc.password>        -->                 
 
-            </properties>
+            </properties>	
+<distributionManagement>
+    <repository>
+      <id>JavaHelloWorldApp_Release</id>
+      <name>JavaHelloWorldApp_Release</name>
+      <url>http://52.24.106.157:8082/repository/JavaHelloWorldApp_Release/</url>
+    </repository>
+    <snapshotRepository>
+      <id>JavaHelloWorldApp_Snapshot</id>
+      <name>JavaHelloWorldApp_Snapshot</name>
+      <url>http://52.24.106.157:8082/repository/JavaHelloWorldApp_Snapshot/</url>
+    </snapshotRepository>
+  </distributionManagement>
         </profile>
       </profiles>
 
