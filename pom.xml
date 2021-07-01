@@ -86,12 +86,12 @@
     <repository>
       <id>JavaHelloWorldApp_Release</id>
       <name>JavaHelloWorldApp_Release</name>
-      <url>http://52.24.106.157:8082/repository/JavaHelloWorldApp_Release/</url>
+      <url>http://52.39.55.188:8082/repository/JavaHelloWorldApp_Release/</url>
     </repository>
     <snapshotRepository>
       <id>JavaHelloWorldApp_Snapshot</id>
       <name>JavaHelloWorldApp_Snapshot</name>
-      <url>http://52.24.106.157:8082/repository/JavaHelloWorldApp_Snapshot/</url>
+      <url>http://52.39.55.188:8082/repository/JavaHelloWorldApp_Snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
         </profile>
